@@ -1,0 +1,19 @@
+target/
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.vscode/
+*.class
+*.log
+.DS_Store
+*.swp
+*.bak
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
